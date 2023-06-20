@@ -1,4 +1,4 @@
-# Multi Step Form with Sms Verification
+# Multi Step Form with SMS Verification
 
 This is a multistep form with sms verification with using Tiwillio API
 
